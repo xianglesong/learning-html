@@ -8,7 +8,7 @@
 				font-size: 16px;
 /* 				background-color:#3071a9; */
 			}
-			
+
 			.linktitle {
 				margin-left: 20px;
 				font-weight: bold;
@@ -16,12 +16,12 @@
 				margin-top: 6px;
 				font-size: 12px;
 			}
-			
+
 			.explain {
 				margin: 0 0 10px 20px;
 				font-size:10px;
 			}
-			
+
 			.footer {
 				margin: 20px 0 0 0;
 				font-size: 12px;
@@ -49,5 +49,4 @@
 				-moz-box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 				-webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.2);
 			}
-			
-		</style>
+</style>
